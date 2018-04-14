@@ -10,7 +10,8 @@ import 'rxjs/add/operator/map';
 export class HomePage {
 
   constructor(public navCtrl: NavController, public http: Http) {
-
+    //this loads the data for the first 19 players 
+    this.loadData();
   }
 
   //created a new variable of type any 

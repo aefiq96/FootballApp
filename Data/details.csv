@@ -1,0 +1,440 @@
+1,Cristiano Ronaldo,Portugal,LS,Real Madrid,LW,7,94,185 cm,80 kg,1985-05-02,32,93,22,92,80,92,93,7,11
+2,Lionel Messi,Argentina,RW,FC Barcelona,RW,10,93,170 cm,72 kg,1987-06-24,29,95,13,87,59,85,95,6,8
+3,Neymar,Brazil,LW,FC Barcelona,LW,11,92,174 cm,68 kg,1992-05-02,25,95,21,90,49,78,89,9,11
+4,Luis Suarez,Uruguay,LS,FC Barcelona,ST,9,92,182 cm,85 kg,1987-01-24,30,91,30,77,76,87,94,27,37
+5,Manuel Neuer,Germany,GK,FC Bayern,GK,1,92,193 cm,92 kg,1986-03-27,31,48,10,61,83,25,13,89,89
+6,De Gea,Spain,GK,Manchester Utd,GK,1,90,193 cm,82 kg,1990-07-11,26,31,13,56,64,31,13,88,90
+7,Robert Lewandowski,Poland,LS,FC Bayern,ST,9,90,185 cm,79 kg,1988-08-21,28,87,25,82,84,86,91,15,10
+8,Gareth Bale,Wales,RS,Real Madrid,RW,11,90,183 cm,74 kg,1989-07-16,27,88,51,95,80,91,87,15,6
+9,Zlatan Ibrahimovic,Sweden,,Manchester Utd,ST,9,90,195 cm,95 kg,1981-03-10,35,90,15,74,93,93,90,13,12
+10,Thibaut Courtois,Belgium,GK,Chelsea,GK,13,89,199 cm,91 kg,1992-11-05,24,23,11,52,70,36,14,84,89
+11,Jerome Boateng,Germany,RCB,FC Bayern,Sub,17,89,192 cm,90 kg,1988-03-09,28,72,90,81,91,79,34,7,5
+12,Eden Hazard,Belgium,LF,Chelsea,LW,10,89,173 cm,74 kg,1991-07-01,26,91,25,87,65,79,81,11,8
+13,Luka Modric,Croatia,,Real Madrid,RCM,19,89,174 cm,65 kg,1985-09-09,31,92,66,71,58,73,71,13,9
+14,Mesut Ozil,Germany,CAM,Arsenal,CAM,11,89,180 cm,76 kg,1988-10-15,28,90,22,68,56,70,75,6,14
+15,Gonzalo Higuain,Argentina,Sub,Juventus,ST,9,89,184 cm,92 kg,1987-10-12,29,85,12,81,85,86,92,5,10
+16,Thiago Silva,Brazil,Sub,PSG,LCB,2,89,183 cm,79 kg,1984-09-22,32,80,90,76,81,78,38,9,10
+17,Sergio Ramos,Spain,LCB,Real Madrid,LCB,4,89,183 cm,75 kg,1986-03-30,31,83,85,78,81,79,60,11,11
+18,Sergio Aguero,Argentina,Sub,Manchester City,ST,10,89,173 cm,70 kg,1988-02-06,28,89,13,86,73,87,90,13,14
+19,Paul Pogba,France,,Manchester Utd,LCM,6,88,191 cm,84 kg,1993-03-15,24,90,68,79,91,90,71,5,3
+20,Antoine Griezmann,France,CAM,Atlético Madrid,RS,7,88,176 cm,67 kg,1991-03-21,26,86,23,86,61,81,88,14,14
+21,Kevin De Bruyne,Belgium,RCM,Manchester City,RCM,17,88,181 cm,68 kg,1991-06-28,25,86,30,78,73,85,83,15,13
+22,Marco Reus,Germany,,Bor. Dortmund,LW,11,88,182 cm,76 kg,1989-05-31,27,85,30,91,67,87,84,12,11
+23,Alexis Sanchez,Chile,LW,Arsenal,ST,7,88,169 cm,62 kg,1988-12-19,28,86,30,84,72,84,85,10,13
+24,Toni Kroos,Germany,LDM,Real Madrid,LCM,8,88,182 cm,78 kg,1990-04-01,27,85,63,37,74,87,75,10,10
+25,Diego Godin,Uruguay,LCB,Atlético Madrid,LCB,2,88,185 cm,73 kg,1986-02-16,31,76,87,67,80,67,42,6,15
+26,Mats Hummels,Germany,LCB,FC Bayern,LCB,5,88,191 cm,92 kg,1988-12-16,28,77,85,65,85,71,55,15,6
+27,Hugo Lloris,France,GK,Spurs,GK,1,88,188 cm,82 kg,1986-12-26,30,34,12,63,43,23,10,87,90
+28,Giorgio Chiellini,Italy,LCB,Juventus,LCB,3,88,187 cm,84 kg,1984-08-14,32,55,92,79,91,78,33,3,3
+29,Philipp Lahm,Germany,,FC Bayern,RB,21,88,170 cm,66 kg,1983-11-11,33,86,86,67,59,57,47,11,5
+30,Pepe,Portugal,RCB,Real Madrid,RCB,3,88,188 cm,81 kg,1983-02-26,34,62,88,75,84,63,46,8,10
+31,Petr Cech,Czech Republic,,Arsenal,GK,33,88,196 cm,90 kg,1982-05-20,34,22,11,50,65,21,12,83,85
+32,Gianluigi Buffon,Italy,GK,Juventus,GK,1,88,192 cm,91 kg,1978-01-28,39,28,10,43,69,39,15,87,84
+33,Iniesta,Spain,LCM,FC Barcelona,LM,8,88,171 cm,68 kg,1984-11-05,32,93,57,73,59,65,73,6,7
+34,Jan Oblak,Slovenia,GK,Atlético Madrid,GK,13,87,189 cm,87 kg,1993-07-01,24,16,14,60,78,22,11,83,82
+35,James Rodriguez,Colombia,LAM,Real Madrid,CAM,10,87,180 cm,75 kg,1991-12-07,25,85,25,75,70,86,82,15,14
+36,Pierre Emerick Aubameyang,Gabon,,Bor. Dortmund,ST,17,87,187 cm,80 kg,1989-06-18,27,82,28,96,77,81,88,6,9
+37,Leonardo Bonucci,Italy,CB,Juventus,RCB,19,87,190 cm,85 kg,1987-01-05,29,75,84,75,85,74,37,2,4
+38,Arturo Vidal,Chile,CDM,FC Bayern,LDM,23,87,180 cm,75 kg,1987-05-22,29,83,76,74,79,84,77,4,4
+39,Ivan Rakitic,Croatia,,FC Barcelona,CAM,4,87,184 cm,78 kg,1988-10-03,29,87,52,65,63,84,83,14,9
+40,David Silva,Spain,LM,Manchester City,LCM,21,87,173 cm,67 kg,1986-08-01,31,90,23,65,56,71,70,1,1
+41,Samir Handanovia,Slovenia,,Inter,GK,1,87,193 cm,89 kg,1984-07-14,32,24,17,57,71,22,10,86,86
+42,Pique,Spain,RCB,FC Barcelona,RCB,3,87,193 cm,85 kg,1987-02-02,30,78,86,73,83,62,64,10,8
+43,Arjen Robben,Netherlands,RW,FC Bayern,RM,10,87,180 cm,80 kg,1984-01-23,33,89,29,86,65,86,84,10,15
+44,Paulo Dybala,Argentina,Sub,Juventus,CAM,21,86,177 cm,74 kg,1993-11-15,23,91,14,86,65,82,88,5,8
+45,Marco Verratti,Italy,LCM,PSG,RCM,6,86,165 cm,60 kg,1992-05-11,24,87,76,64,56,66,52,12,10
+46,David Alaba,Austria,LM,FC Bayern,LB,27,86,180 cm,76 kg,1992-06-24,24,83,81,86,69,83,63,5,9
+47,Henrikh Mkhitaryan,Armenia,,Manchester Utd,RW,22,86,177 cm,75 kg,1989-01-21,28,89,49,84,63,87,77,5,7
+48,Bernd Leno,Germany,Sub,Bayer 04,GK,1,86,190 cm,83 kg,1992-04-03,25,22,8,52,68,23,9,85,83
+49,Thomas Mueller,Germany,RM,FC Bayern,CAM,25,86,186 cm,75 kg,1989-09-13,27,82,31,79,67,77,87,6,14
+50,Sergio Busquets,Spain,CDM,FC Barcelona,CDM,5,86,189 cm,76 kg,1988-07-16,28,80,81,33,77,61,60,5,13
+51,Thiago,Spain,Sub,FC Bayern,RDM,6,86,174 cm,70 kg,1991-11-04,25,91,49,68,59,75,69,6,13
+52,Jordi Alba,Spain,LB,FC Barcelona,LCB,18,86,170 cm,68 kg,1989-03-21,28,84,81,93,66,64,73,13,13
+53,Coutinho,Brazil,RW,Liverpool,LW,10,86,171 cm,68 kg,1992-12-06,24,88,24,77,61,79,73,12,6
+54,Angel Di Maria,Argentina,LW,PSG,RW,11,86,180 cm,75 kg,1988-02-14,29,87,37,86,64,87,74,10,11
+55,Diego Costa,Spain,ST,Chelsea,ST,19,86,188 cm,85 kg,1988-07-10,28,83,28,78,91,84,89,11,11
+56,Edinson Cavani,Uruguay,RS,PSG,ST,9,86,184 cm,71 kg,1987-02-14,30,80,24,79,74,85,85,12,10
+57,Radja Nainggolan,Belgium,Sub,Roma,LF,4,86,176 cm,65 kg,1988-04-05,28,85,78,78,78,84,76,11,11
+58,Marcelo,Brazil,LB,Real Madrid,LB,12,86,174 cm,75 kg,1988-12-05,28,87,80,80,77,83,67,12,9
+59,Claudio Marchisio,Italy,,Juventus,Sub,8,86,180 cm,75 kg,1986-01-19,31,85,72,79,71,82,65,4,4
+60,Miranda,Brazil,RCB,Inter,RCB,25,86,186 cm,78 kg,1984-07-09,32,67,89,76,81,70,43,12,12
+61,Karim Benzema,France,,Real Madrid,ST,9,86,187 cm,79 kg,1987-12-19,29,86,13,82,78,83,87,13,7
+62,Cesc Fabregas,Spain,,Chelsea,Sub,4,86,175 cm,74 kg,1987-04-05,29,86,60,62,64,77,76,6,15
+63,Franck Ribery,France,,FC Bayern,Sub,7,86,170 cm,72 kg,1983-07-04,33,90,13,79,60,76,76,15,10
+64,Santi Cazorla,Spain,,Arsenal,Sub,19,86,168 cm,66 kg,1984-12-13,32,87,58,65,59,78,77,6,15
+65,Andrea Barzagli,Italy,RCB,Juventus,Sub,15,86,187 cm,88 kg,1981-08-05,35,65,90,79,87,54,27,4,4
+66,Harry Kane,England,ST,Spurs,RS,10,85,188 cm,86 kg,1993-07-28,23,82,41,77,84,86,88,8,11
+67,Alexandre Lacazette,France,,Olym. Lyonnais,ST,10,85,175 cm,73 kg,1991-05-28,25,84,23,87,79,81,87,11,6
+68,Keylor Navas,Costa Rica,,Real Madrid,GK,1,85,185 cm,78 kg,1986-12-15,30,19,12,53,75,21,15,87,85
+69,Romelu Lukaku,Belgium,ST,Everton,ST,10,85,190 cm,94 kg,1993-05-13,23,79,27,89,93,88,87,8,10
+70,Christian Eriksen,Denmark,CM,Spurs,CAM,23,85,180 cm,76 kg,1992-02-14,25,86,38,74,52,78,75,9,6
+71,Ilkay Gundogan,Germany,,Manchester City,Sub,8,85,180 cm,80 kg,1990-10-24,26,88,57,74,74,77,69,11,13
+72,Toby Alderweireld,Belgium,RCB,Spurs,CB,4,85,187 cm,91 kg,1989-02-03,28,70,86,69,81,86,45,16,14
+73,Willian,Brazil,Sub,Chelsea,Sub,22,85,175 cm,75 kg,1988-09-08,28,86,43,86,61,71,75,14,13
+74,Miralem Pjanic,Bosnia Herzegovina,,Juventus,RDM,5,85,180 cm,72 kg,1990-02-04,26,89,60,75,65,79,70,7,8
+75,Juan Mata,Spain,,Manchester Utd,Sub,8,85,170 cm,63 kg,1988-04-28,28,88,25,63,43,75,80,9,8
+76,Javi Martinez,Spain,Sub,FC Bayern,RCB,8,85,190 cm,81 kg,1988-02-09,28,71,82,53,84,76,55,5,8
+77,Dimitri Payet,France,LM,Olym. Marseille,LW,11,85,175 cm,77 kg,1987-03-29,30,90,29,75,76,78,76,11,12
+78,Dries Mertens,Belgium,RF,Napoli,ST,14,85,169 cm,61 kg,1987-06-05,29,88,30,87,42,80,77,7,4
+79,Sokratis,Greece,RCB,Bor. Dortmund,CB,25,85,186 cm,85 kg,1988-09-06,28,58,87,83,86,79,44,6,5
+80,Marek Hamsik,Slovakia,,Napoli,LCM,17,85,183 cm,79 kg,1987-07-27,29,86,60,77,69,79,78,8,14
+81,Blaise Matuidi,France,LDM,PSG,LCM,14,85,175 cm,70 kg,1987-09-04,29,77,83,79,78,74,65,8,14
+82,Stephane Ruffier,France,,AS Saint Etienne,GK,16,85,188 cm,93 kg,1986-09-27,30,15,11,50,76,21,11,82,87
+83,Laurent Koscielny,France,RCB,Arsenal,LCB,6,85,186 cm,75 kg,1985-10-09,31,67,83,80,76,54,32,13,7
+84,Filipe Luis,Brazil,Sub,Atlético Madrid,LB,3,85,182 cm,77 kg,1985-09-08,31,81,85,83,74,71,59,11,5
+85,Vincent Kompany,Belgium,CB,Manchester City,Sub,4,85,193 cm,85 kg,1986-10-04,30,66,85,69,87,75,45,10,6
+86,Aymeric Laporte,France,,Athletic Bilbao,LCB,4,84,189 cm,85 kg,1994-05-27,22,71,86,71,84,70,45,10,5
+87,Yannick Carrasco,Belgium,LM,Atlético Madrid,LM,10,84,180 cm,66 kg,1993-04-09,23,85,19,89,59,84,78,9,10
+88,Carvajal,Spain,RB,Real Madrid,RB,2,84,173 cm,73 kg,1992-11-01,25,83,85,85,75,64,41,13,15
+89,Riyad Mahrez,Algeria,,Leicester City,RM,26,84,179 cm,62 kg,1991-05-27,26,90,25,79,57,76,77,15,6
+90,Raphael Varane,France,,Real Madrid,Sub,5,84,191 cm,78 kg,1993-04-25,23,75,84,83,84,52,40,11,14
+91,Mauro Icardi,Argentina,,Inter,ST,9,84,181 cm,75 kg,1993-02-19,24,79,17,80,76,81,89,13,9
+92,Lorenzo Insigne,Italy,Sub,Napoli,LW,24,84,163 cm,59 kg,1991-04-06,25,90,16,86,44,68,71,8,10
+93,Isco,Spain,Sub,Real Madrid,Sub,22,84,176 cm,74 kg,1992-04-21,24,90,25,69,59,72,79,10,6
+94,Koke,Spain,RCM,Atlético Madrid,RM,6,84,178 cm,74 kg,1992-08-01,25,86,63,69,75,84,71,14,13
+95,Kostas Manolas,Greece,LCB,Roma,RCB,44,84,189 cm,83 kg,1991-06-14,25,65,88,80,84,43,10,8,12
+96,Danijel Subasic,Croatia,,AS Monaco,GK,1,84,191 cm,84 kg,1984-10-27,32,19,15,54,80,24,10,82,84
+97,Nicolas Otamendi,Argentina,RCB,Manchester City,LCB,30,84,183 cm,81 kg,1988-12-02,29,64,81,75,81,69,53,12,12
+98,Shkodran Mustafi,Germany,Sub,Arsenal,RCB,20,84,184 cm,82 kg,1992-04-17,24,70,82,73,81,66,58,11,6
+99,Nemanja Matic,Serbia,,Chelsea,LCM,21,84,194 cm,84 kg,1988-01-08,28,79,76,68,90,78,64,7,9
+100,Alex Sandro,Brazil,,Juventus,LB,12,84,181 cm,76 kg,1991-01-26,26,81,76,89,79,78,57,7,5
+101,Kamil Glik,Poland,RCB,AS Monaco,RCB,25,84,190 cm,80 kg,1988-03-02,29,59,86,63,88,57,11,10,10
+102,Douglas Costa,Brazil,Sub,FC Bayern,LM,11,84,170 cm,65 kg,1990-09-14,26,84,41,88,62,88,72,13,5
+103,Kevin Strootman,Netherlands,CDM,Roma,LCM,6,84,186 cm,78 kg,1990-02-13,27,85,72,69,84,85,68,7,7
+104,Nicolis Gaitan,Argentina,,Atlético Madrid,Sub,23,84,173 cm,68 kg,1988-02-23,29,85,30,80,50,72,73,8,5
+105,Bruno,Spain,,Villarreal CF,LCM,21,84,184 cm,73 kg,1984-12-06,32,83,70,52,77,84,66,13,8
+106,Ivan Perisic,Croatia,,Inter,LAM,44,84,186 cm,81 kg,1989-02-02,28,83,26,87,77,83,78,6,6
+107,David Luiz,Brazil,,Chelsea,CB,30,84,189 cm,84 kg,1987-04-22,29,79,80,73,77,77,56,11,14
+108,Sami Khedira,Germany,RDM,Juventus,LDM,6,84,189 cm,93 kg,1987-04-04,29,81,76,69,91,84,70,11,8
+109,Benedikt Howedes,Germany,Sub,FC Schalke 04,RCB,4,84,187 cm,82 kg,1988-02-29,29,70,85,67,81,62,48,14,7
+110,Ralf Fahrmann,Germany,,FC Schalke 04,GK,1,84,196 cm,95 kg,1988-09-27,28,24,12,47,79,24,11,83,87
+111,Sergio Asenjo,Spain,,Villarreal CF,Sub,1,84,189 cm,87 kg,1989-06-28,27,14,12,54,73,24,14,86,85
+112,Ever Banega,Argentina,CAM,Inter,CAM,19,84,174 cm,71 kg,1988-06-29,28,87,57,69,67,74,65,13,10
+113,Medhi Benatia,Morocco,,Juventus,Sub,4,84,190 cm,96 kg,1987-04-17,29,65,86,69,89,59,49,7,11
+114,Steve Mandanda,France,,Crystal Palace,Sub,30,84,185 cm,82 kg,1985-03-28,32,17,10,43,61,24,13,86,85
+115,Dani Alves,Brazil,RB,Juventus,Sub,23,84,172 cm,68 kg,1983-06-05,33,85,72,83,55,86,60,5,7
+116,Arda Turan,Turkey,RM,FC Barcelona,Sub,7,84,177 cm,76 kg,1987-01-30,30,88,54,68,70,73,72,11,11
+117,Javier Mascherano,Argentina,LCM,FC Barcelona,Sub,14,84,174 cm,73 kg,1984-08-06,32,80,82,65,74,76,42,6,5
+118,Aduriz,Spain,,Athletic Bilbao,ST,20,84,182 cm,78 kg,1981-11-02,36,80,46,71,82,83,85,14,9
+119,Yaya Toure,Ivory Coast,,Manchester City,CDM,42,84,189 cm,90 kg,1983-05-13,33,82,66,78,91,86,82,13,8
+120,Eric Bailly,Ivory Coast,RCB,Manchester Utd,RCB,3,83,187 cm,77 kg,1994-12-04,22,63,83,83,84,55,33,14,8
+121,Jose Mara Gimenez,Uruguay,RCB,Atlético Madrid,Sub,24,83,185 cm,80 kg,1995-01-20,22,56,85,72,83,72,37,9,15
+122,NGolo Kante,France,RDM,Chelsea,RCM,7,83,168 cm,68 kg,1991-03-29,26,79,75,81,76,72,65,15,10
+123,Geranimo Rulli,Argentina,,Real Sociedad,GK,1,83,189 cm,80 kg,1992-05-20,24,15,16,48,73,24,15,85,86
+124,Joao Mario,Portugal,LM,Inter,Sub,6,83,179 cm,73 kg,1993-01-19,24,85,67,77,69,77,72,6,8
+125,Andre Gomes,Portugal,CM,FC Barcelona,Sub,21,83,188 cm,84 kg,1993-07-30,23,83,65,66,85,80,68,12,8
+126,Marquinhos,Brazil,LCB,PSG,RCB,5,83,183 cm,75 kg,1994-05-14,22,76,85,74,74,53,33,6,13
+127,Carlos Bacca,Colombia,ST,Milan,ST,70,83,181 cm,77 kg,1986-08-09,30,80,12,83,76,78,88,12,8
+128,William Carvalho,Portugal,CDM,Sporting CP,CDM,14,83,187 cm,83 kg,1992-07-04,24,78,77,53,88,63,55,6,14
+129,Karim Bellarabi,Germany,,Bayer 04,RM,38,83,183 cm,80 kg,1990-08-04,26,84,28,90,68,85,75,10,10
+130,Raheem Sterling,England,RM,Manchester City,RW,7,83,170 cm,69 kg,1994-08-12,22,84,48,92,64,68,73,15,9
+131,Julian Draxler,Germany,LM,PSG,LW,23,83,187 cm,72 kg,1993-09-20,23,85,25,77,67,84,75,11,8
+132,Roberto Firmino,Brazil,ST,Liverpool,ST,11,83,181 cm,76 kg,1991-02-10,25,83,30,79,76,79,82,8,10
+133,Marcos Rojo,Argentina,LCB,Manchester Utd,Sub,5,83,187 cm,80 kg,1990-03-20,27,71,79,74,83,79,52,7,10
+134,Kalidou Koulibaly,Senegal,,Napoli,LCB,26,83,195 cm,89 kg,1991-06-20,25,57,85,78,93,55,19,7,5
+135,Danilo Pereira,Portugal,Sub,FC Porto,CDM,22,83,188 cm,83 kg,1991-09-09,25,77,80,69,89,77,56,9,15
+136,Timo Horn,Germany,,1. FC,GK,1,83,192 cm,90 kg,1993-12-05,23,22,11,51,67,22,13,80,84
+137,Casemiro,Brazil,CDM,Real Madrid,Sub,14,83,184 cm,80 kg,1992-02-23,25,77,79,62,82,86,59,13,12
+138,Vitolo,Spain,Sub,Sevilla FC,LM,20,83,184 cm,79 kg,1989-02-11,27,85,25,81,81,77,79,11,16
+139,Anthony Lopes,Portugal,Sub,Olym. Lyonnais,GK,1,83,184 cm,81 kg,1990-01-10,26,21,13,64,65,20,18,86,87
+140,Mattia Perin,Italy,,Genoa,Res,1,83,188 cm,74 kg,1992-10-11,24,23,14,56,52,23,11,80,90
+141,Joel Matip,Cameroon,,Liverpool,RCB,32,83,195 cm,90 kg,1991-08-08,25,71,85,77,80,66,36,11,10
+142,Juan Cuadrado,Colombia,RAM,Juventus,RM,7,83,179 cm,71 kg,1988-05-26,28,85,52,93,59,84,71,5,9
+143,Iago Aspas,Spain,Sub,Celta Vigo,RW,10,83,176 cm,67 kg,1987-01-08,29,84,20,80,59,79,84,12,13
+144,Marc Andre ter Stegen,Germany,Sub,FC Barcelona,GK,1,83,187 cm,85 kg,1992-04-30,24,18,10,50,79,22,13,84,85
+145,Mario Gotze,Germany,,Bor. Dortmund,Sub,10,82,176 cm,75 kg,1992-03-06,24,90,16,68,67,68,74,14,10
+146,Ander Herrera,Spain,Sub,Manchester Utd,RCM,21,83,182 cm,73 kg,1989-08-14,27,85,66,68,65,72,71,9,8
+147,Javier Pastore,Argentina,,PSG,Sub,10,83,187 cm,78 kg,1989-06-20,27,87,49,75,64,78,73,14,12
+148,Chris Smalling,England,Sub,Manchester Utd,LCB,12,83,193 cm,90 kg,1989-11-22,27,61,81,77,87,42,50,10,15
+149,Pedro,Spain,RM,Chelsea,RW,11,83,167 cm,62 kg,1987-07-28,29,85,30,80,56,71,81,5,9
+150,Giacomo Bonaventura,Italy,,Milan,Res,5,83,181 cm,75 kg,1989-08-22,27,84,58,81,69,84,75,10,14
+151,Roman Burki,Switzerland,Sub,Bor. Dortmund,GK,38,83,187 cm,85 kg,1990-11-14,26,23,14,52,74,22,8,83,85
+152,Oscar,Brazil,Sub,Free Agents,Res,99,83,179 cm,67 kg,1991-09-09,25,84,37,77,36,76,75,12,12
+153,Steven NZonzi,France,,Sevilla FC,LDM,15,83,190 cm,75 kg,1988-12-15,28,82,75,62,90,79,64,7,13
+154,Aaron Ramsey,Wales,LCM,Arsenal,Sub,8,83,183 cm,76 kg,1990-12-26,26,84,62,69,69,81,73,6,8
+155,Mateo Musacchio,Argentina,Sub,Villarreal CF,RCB,5,83,182 cm,75 kg,1990-08-26,26,73,85,70,81,57,48,5,12
+156,Amer Toprak,Turkey,RCB,Bayer 04,RCB,21,83,187 cm,83 kg,1989-07-21,27,72,86,77,78,63,28,11,15
+157,Josao Callejon,Spain,,Napoli,RW,7,83,178 cm,73 kg,1987-02-11,30,84,24,90,56,78,76,8,11
+158,Adrien Silva,Portugal,,Sporting CP,CM,23,83,175 cm,69 kg,1989-03-15,28,85,80,65,62,83,71,15,7
+159,Azpilicueta,Spain,Sub,Chelsea,RCB,28,83,178 cm,75 kg,1989-08-28,27,77,87,79,74,68,46,13,5
+160,Sebastian Giovinco,Italy,,Toronto FC,LS,10,83,164 cm,59 kg,1987-01-26,30,87,23,86,48,78,81,6,3
+161,Anthony Modeste,France,,1. FC Köln,LS,27,83,187 cm,84 kg,1988-04-14,28,78,25,79,86,81,86,10,8
+162,Mario Mandzukic,Croatia,,Juventus,LM,17,83,190 cm,86 kg,1986-05-21,30,77,48,75,87,78,84,10,15
+163,Adam Lallana,England,LM,Liverpool,RCM,20,83,172 cm,73 kg,1988-10-05,28,86,60,74,67,72,79,6,11
+164,Olivier Giroud,France,ST,Arsenal,Sub,12,83,192 cm,88 kg,1986-09-30,30,82,26,58,88,84,84,12,5
+165,Rui Patracio,Portugal,GK,Sporting CP,GK,1,83,190 cm,84 kg,1988-02-15,29,23,13,57,77,38,12,85,82
+166,Yann Sommer,Switzerland,GK,Bor. M'gladbach,GK,1,83,183 cm,79 kg,1988-12-17,28,25,11,54,68,23,13,81,83
+167,Jonas,Brazil,,SL Benfica,LS,10,83,181 cm,75 kg,1984-01-04,32,88,23,70,61,80,86,12,5
+168,Kevin Gameiro,France,Sub,Atlético Madrid,LS,21,83,173 cm,70 kg,1987-09-05,29,80,23,86,64,84,86,6,6
+169,Claudio Bravo,Chile,GK,Manchester City,Sub,1,83,184 cm,80 kg,1983-04-13,33,15,11,54,70,22,13,82,82
+170,Aukasz Piszczek,Poland,RB,Bor. Dortmund,RCB,26,83,184 cm,78 kg,1985-03-06,31,76,79,80,79,77,65,14,12
+171,Jan Vertonghen,Belgium,LCB,Spurs,LCB,5,83,189 cm,88 kg,1987-04-24,29,74,81,66,81,86,60,6,7
+172,Asmir Begovic,Bosnia Herzegovina,,Chelsea,Sub,1,83,200 cm,83 kg,1987-06-20,29,24,13,58,80,28,12,83,84
+173,Naldo,Brazil,,FC Schalke 04,Sub,29,83,198 cm,91 kg,1982-10-09,34,68,82,73,83,92,57,14,14
+174,Daniel Sturridge,England,,Liverpool,Sub,15,83,180 cm,76 kg,1989-01-09,27,81,15,82,71,83,84,7,13
+175,Jose Fonte,Portugal,LCB,West Ham,RCB,23,83,187 cm,81 kg,1983-12-22,33,64,84,54,83,29,40,7,6
+176,Ezequiel Garay,Argentina,,Valencia CF,RCB,24,83,188 cm,77 kg,1986-10-10,30,73,84,54,85,80,58,14,14
+177,Samir Nasri,France,,Sevilla FC,CAM,10,83,175 cm,75 kg,1987-06-26,29,87,35,78,62,74,77,1,1
+178,Gary Cahill,England,LCB,Chelsea,LCB,24,83,193 cm,86 kg,1985-12-19,31,63,83,66,78,63,56,5,12
+179,Ashley Williams,Wales,CB,Everton,LCB,5,83,182 cm,91 kg,1984-08-23,32,69,81,72,86,64,37,7,10
+180,Leighton Baines,England,,Everton,LB,3,83,170 cm,70 kg,1984-11-12,32,79,81,75,69,84,70,8,12
+181,Kasper Schmeichel,Denmark,GK,Leicester City,GK,1,83,185 cm,76 kg,1986-05-11,30,24,14,60,62,36,12,83,85
+182,Borja Valero,Spain,,Fiorentina,RF,20,83,175 cm,73 kg,1985-12-01,32,88,58,68,66,72,67,5,7
+183,Hatem Ben Arfa,France,,PSG,Sub,21,83,178 cm,74 kg,1987-07-03,30,86,33,77,75,83,79,12,12
+184,Joe Hart,England,GK,Torino,GK,21,83,196 cm,91 kg,1987-04-19,29,20,14,60,61,65,14,83,85
+185,Juanfran,Spain,,Atlético Madrid,RB,20,83,180 cm,72 kg,1985-09-01,32,79,83,87,74,68,54,11,7
+186,Wesley Sneijder,Netherlands,Sub,Galatasaray,CAM,10,83,170 cm,72 kg,1984-09-06,32,85,32,73,57,87,72,9,12
+187,Nani,Portugal,Sub,Valencia CF,LW,17,83,175 cm,66 kg,1986-11-17,30,86,15,79,62,85,75,5,6
+188,Stephan Lichtsteiner,Switzerland,RB,Juventus,RB,26,83,182 cm,74 kg,1984-01-16,33,75,78,83,75,74,50,4,2
+189,Wayne Rooney,England,Sub,Manchester Utd,Sub,10,83,176 cm,83 kg,1985-10-24,31,80,48,73,84,86,84,10,7
+190,Daniele De Rossi,Italy,CDM,Roma,RCM,16,83,184 cm,83 kg,1983-07-24,33,78,75,69,84,81,50,10,9
+191,Jose Reina,Spain,Sub,Napoli,GK,25,83,188 cm,92 kg,1982-08-31,34,23,12,63,72,24,14,80,82
+192,Quaresma,Portugal,RM,Besiktas,RM,7,83,175 cm,67 kg,1983-09-26,33,87,10,83,54,83,70,12,15
+193,Marco Asensio,Spain,,Real Madrid,Sub,20,82,178 cm,70 kg,1996-01-21,21,85,30,78,62,67,75,13,10
+194,Bernardo Silva,Portugal,Sub,AS Monaco,RM,10,83,173 cm,64 kg,1994-10-08,22,86,46,77,54,72,76,9,9
+195,Islam Slimani,Algeria,,Leicester City,Sub,19,82,188 cm,79 kg,1988-06-18,28,76,34,76,85,78,81,10,11
+196,Jonathan Tah,Germany,,Bayer 04,Sub,4,82,194 cm,98 kg,1996-11-02,21,64,82,78,91,44,19,11,14
+197,Anthony Martial,France,,Manchester Utd,LW,11,82,184 cm,76 kg,1995-05-12,21,84,35,91,80,84,82,9,11
+198,Dele Alli,England,CAM,Spurs,LS,20,82,188 cm,80 kg,1996-11-04,20,83,57,76,70,75,79,7,8
+199,Ederson,Brazil,Sub,SL Benfica,GK,1,82,188 cm,83 kg,1993-08-17,23,30,9,62,69,42,14,81,87
+200,Mohamed Salah,Egypt,ST,Roma,RF,11,82,175 cm,72 kg,1992-06-15,24,87,37,92,60,71,78,14,14
+201,Sadio Mane,Senegal,,Liverpool,RW,19,82,175 cm,75 kg,1992-10-04,24,82,33,92,72,76,81,10,14
+202,Lucas Vazquez,Spain,,Real Madrid,Sub,17,82,173 cm,69 kg,1991-01-07,25,82,23,81,56,78,77,9,7
+203,Franco Vazquez,Italy,,Sevilla FC,Sub,22,82,186 cm,82 kg,1989-02-22,28,89,33,67,78,74,77,14,7
+204,Manu Trigueros,Spain,,Villarreal CF,RCM,14,82,178 cm,71 kg,1991-10-17,25,84,53,73,63,81,71,9,8
+205,Samuel Umtiti,France,LCB,FC Barcelona,CB,23,82,181 cm,75 kg,1993-11-14,23,73,80,75,76,83,51,15,15
+206,Stefan Savic,Montenegro,,Atlético Madrid,RCB,15,82,186 cm,73 kg,1991-08-01,26,66,85,65,77,43,34,14,12
+207,Roque Mesa,Spain,,UD Las Palmas,CDM,15,82,171 cm,73 kg,1989-07-06,27,82,72,78,70,63,67,15,9
+208,Loris Karius,Germany,,Liverpool,Sub,1,82,190 cm,87 kg,1993-06-22,23,23,13,50,55,20,18,84,85
+209,Alessandro Florenzi,Italy,,Roma,Sub,24,82,173 cm,67 kg,1991-11-03,26,83,73,84,68,82,76,9,10
+210,Virgil van Dijk,Netherlands,LCB,Southampton,LCB,17,82,193 cm,92 kg,1991-08-07,25,71,82,76,92,81,55,13,11
+211,Jack Butland,England,,Stoke City,Sub,1,82,196 cm,95 kg,1993-10-03,24,26,16,45,59,29,16,81,85
+212,Morata,Spain,Sub,Real Madrid,Sub,21,82,189 cm,85 kg,1992-10-23,24,83,14,86,82,78,81,4,5
+213,Lucas,Brazil,,PSG,Sub,7,82,172 cm,72 kg,1992-08-13,24,84,39,91,56,79,72,9,14
+214,Yevhen Konoplyanka,Ukraine,,FC Schalke 04,Sub,11,82,178 cm,78 kg,1989-09-29,27,85,21,88,58,77,80,5,9
+215,Francesco Acerbi,Italy,,Sassuolo,RCB,15,82,192 cm,88 kg,1988-10-08,28,67,86,64,84,75,37,11,11
+216,Nolito,Spain,,Manchester City,Sub,9,82,175 cm,72 kg,1986-10-15,30,83,30,76,62,74,81,10,8
+217,Granit Xhaka,Switzerland,LDM,Arsenal,Sub,29,82,185 cm,82 kg,1992-09-27,24,80,71,54,76,88,49,7,13
+218,Stefan de Vrij,Netherlands,Sub,Lazio,RCB,3,82,189 cm,78 kg,1992-05-02,25,72,85,69,78,65,25,8,13
+219,Jonathan Viera,Spain,,UD Las Palmas,LCM,21,82,170 cm,64 kg,1989-01-10,27,83,29,77,67,70,78,16,9
+220,Pizzi,Portugal,,SL Benfica,CM,21,82,172 cm,66 kg,1989-06-10,27,82,62,76,61,74,78,15,15
+221,Serge Aurier,Ivory Coast,RB,PSG,Sub,19,82,176 cm,76 kg,1992-12-24,24,79,78,85,84,78,65,7,9
+222,Grzegorz Krychowiak,Poland,RCM,PSG,Sub,4,82,186 cm,85 kg,1990-01-29,27,75,75,71,92,81,42,15,7
+223,Kevin Kampl,Slovenia,Sub,Bayer 04,LDM,44,82,178 cm,65 kg,1990-09-10,26,82,45,75,47,70,65,13,16
+224,Dejan Lovren,Croatia,,Liverpool,LCB,6,82,188 cm,84 kg,1989-05-07,27,67,80,58,85,63,33,14,7
+225,Gary Medel,Chile,RCB,Inter,Sub,17,82,171 cm,71 kg,1987-03-08,29,74,78,76,78,65,31,14,6
+226,Idrissa Gueye,Senegal,,Everton,RDM,17,82,174 cm,72 kg,1989-09-26,27,79,78,77,76,80,50,8,13
+227,Victor Ruiz,Spain,,Villarreal CF,LCB,6,82,185 cm,78 kg,1989-01-25,28,71,83,62,85,59,37,12,14
+228,Ricardo Rodriguez,Switzerland,LB,VfL Wolfsburg,LCB,34,82,180 cm,77 kg,1992-08-25,24,80,78,74,73,78,59,14,11
+229,Xherdan Shaqiri,Switzerland,RAM,Stoke City,RM,22,82,169 cm,72 kg,1991-10-10,25,83,51,84,73,84,74,13,11
+230,Ciro Immobile,Italy,LS,Lazio,ST,17,82,185 cm,85 kg,1990-02-20,27,79,31,85,76,86,86,6,6
+231,Nathaniel Clyne,England,Sub,Liverpool,RB,2,82,175 cm,67 kg,1991-05-04,25,75,81,86,71,74,54,10,7
+232,Iborra,Spain,,Sevilla FC,Sub,8,82,195 cm,88 kg,1988-01-16,29,80,85,54,88,85,72,14,8
+233,Jack Wilshere,England,,Bournemouth,Sub,32,82,172 cm,68 kg,1992-01-01,25,84,61,73,66,75,64,6,11
+234,Shinji Kagawa,Japan,,Bor. Dortmund,Sub,23,82,172 cm,64 kg,1989-03-17,28,84,30,66,39,47,76,11,13
+235,Kevin Trapp,Germany,,PSG,GK,1,82,189 cm,88 kg,1990-08-07,26,24,10,52,73,22,13,83,84
+236,Taison,Brazil,Sub,Shakhtar Donetsk,LM,28,82,172 cm,64 kg,1988-01-13,29,85,38,91,62,83,76,7,13
+237,Kyle Walker,England,RB,Spurs,RWB,2,82,183 cm,83 kg,1990-05-28,26,75,79,93,77,86,51,12,8
+238,Marlos,Brazil,,Shakhtar Donetsk,RM,11,82,174 cm,69 kg,1988-07-06,28,88,45,82,62,76,76,6,9
+239,Luiz Gustavo,Brazil,,VfL Wolfsburg,LDM,22,82,187 cm,80 kg,1987-07-23,29,73,78,67,80,80,46,10,13
+240,Giuliano,Brazil,Sub,Zenit,RCM,7,82,172 cm,68 kg,1990-05-31,26,82,47,79,72,79,78,16,8
+241,Gylfi Sigurdsson,Iceland,,Swansea City,LM,23,82,186 cm,77 kg,1989-09-09,27,82,55,69,67,82,81,13,12
+242,Yacine Brahimi,Algeria,,FC Porto,LM,8,82,175 cm,66 kg,1990-08-02,27,84,24,75,50,69,75,13,7
+243,Marko Arnautovic,Austria,LF,Stoke City,LM,10,82,192 cm,83 kg,1989-04-19,27,85,47,78,85,78,75,14,15
+244,Jordan Henderson,England,RDM,Liverpool,CDM,14,82,182 cm,67 kg,1990-06-17,26,80,73,73,76,75,67,7,13
+245,Orestis Karnezis,Greece,GK,Udinese,GK,1,82,190 cm,79 kg,1985-11-07,31,23,13,34,66,22,23,80,84
+246,Mamadou Sakho,France,,Crystal Palace,LCB,12,81,187 cm,83 kg,1990-02-13,27,61,78,68,90,51,23,14,8
+247,Adil Rami,France,Sub,Sevilla FC,RCB,23,82,190 cm,88 kg,1985-12-27,31,64,81,63,90,83,45,5,3
+248,Fernando Muslera,Uruguay,GK,Galatasaray,GK,1,82,190 cm,84 kg,1986-06-16,30,23,17,62,68,25,10,81,85
+249,Vedran Corluka,Croatia,,Lokomotiv Moscow,RCB,14,82,192 cm,84 kg,1986-05-02,31,73,83,65,84,64,47,15,6
+250,Edin Dzeko,Bosnia Herzegovina,,Roma,ST,9,82,193 cm,84 kg,1986-03-17,31,79,11,65,82,86,86,9,15
+251,Seamus Coleman,Republic of Ireland,RB,Everton,Sub,23,82,177 cm,77 kg,1988-11-10,28,77,83,79,73,75,65,5,7
+252,Javier Hernandez,Mexico,ST,Bayer 04,ST,7,82,175 cm,73 kg,1988-01-06,28,79,22,79,58,76,87,14,11
+253,Benat,Spain,,Athletic Bilbao,LCM,7,82,175 cm,72 kg,1987-02-19,30,80,59,55,70,87,69,16,13
+254,Lars Bender,Germany,,Bayer 04,RDM,8,82,185 cm,80 kg,1989-04-27,27,75,76,69,76,74,59,12,7
+255,Axel Witsel,Belgium,LCM,Free Agents,Res,99,82,186 cm,73 kg,1989-12-01,28,85,69,74,79,78,71,5,7
+256,Morgan Schneiderlin,France,,Everton,LDM,2,82,185 cm,75 kg,1989-08-11,27,79,76,66,77,71,64,6,7
+257,Kevin Mirallas,Belgium,Sub,Everton,LM,11,82,182 cm,70 kg,1987-05-10,29,85,40,86,61,77,78,8,15
+258,Carlos Vela,Mexico,RW,Real Sociedad,RW,11,82,177 cm,75 kg,1989-01-03,28,81,12,83,68,73,79,8,10
+259,Emiliano Viviano,Italy,,Sampdoria,GK,2,82,195 cm,90 kg,1985-01-12,31,22,19,33,58,21,17,81,83
+260,Antonio Valencia,Ecuador,RM,Manchester Utd,RB,25,82,181 cm,78 kg,1985-04-08,31,80,78,85,85,85,58,16,7
+261,Gonzalo Castro,Germany,,Bor. Dortmund,LCM,27,82,172 cm,74 kg,1987-11-06,29,82,72,72,65,77,69,14,15
+262,Falcao,Colombia,,AS Monaco,RS,9,82,177 cm,72 kg,1986-10-02,31,81,16,68,73,78,83,10,5
+263,Diego Alves,Brazil,Sub,Valencia CF,GK,1,82,187 cm,83 kg,1985-06-24,31,15,14,54,67,24,20,86,85
+264,Andrea Consigli,Italy,,Sassuolo,GK,47,82,189 cm,82 kg,1987-01-27,30,23,12,34,51,24,10,82,84
+265,Joao Moutinho,Portugal,Sub,AS Monaco,Sub,8,82,170 cm,61 kg,1986-08-09,30,82,68,67,64,77,73,13,13
+266,Moussa Dembele,Belgium,Sub,Spurs,LCM,19,82,185 cm,88 kg,1987-07-16,29,84,67,77,90,85,66,16,14
+267,Michael Krohn Dehli,Denmark,Sub,Sevilla FC,Sub,7,82,170 cm,68 kg,1983-06-06,33,82,54,69,66,81,78,10,11
+268,Loic Perrin,France,,AS Saint etienne,LCB,24,82,181 cm,80 kg,1985-07-08,31,74,85,72,79,74,64,6,14
+269,Lucas Biglia,Argentina,RCM,Lazio,CDM,20,82,178 cm,63 kg,1986-01-30,31,84,70,69,72,77,52,14,7
+270,Benoit Costil,France,Sub,Stade Rennais,GK,1,82,188 cm,86 kg,1987-03-07,29,12,16,53,65,22,14,82,84
+271,Raul Albiol,Spain,,Napoli,RCB,33,82,190 cm,82 kg,1985-04-09,31,67,85,62,82,65,27,8,8
+272,Mario Gomez,Germany,ST,VfL Wolfsburg,ST,33,82,189 cm,88 kg,1985-10-07,31,75,20,75,86,82,84,8,14
+273,Gabi,Spain,,Atlético Madrid,RCM,14,82,180 cm,74 kg,1983-10-07,33,79,76,65,69,81,67,6,10
+274,Diego Lopez,Spain,,RCD Espanyol,GK,13,82,196 cm,89 kg,1981-03-11,35,23,14,52,66,22,12,75,79
+275,Raffael,Brazil,,Bor. M'gladbach,LS,11,82,174 cm,69 kg,1985-03-28,32,83,29,72,63,77,81,12,14
+276,Alejandro Gomez,Argentina,,Atalanta,LS,10,82,165 cm,68 kg,1988-02-15,29,86,24,86,48,74,72,8,6
+277,Gonzalo Rodriguez,Argentina,,Fiorentina,CB,2,82,182 cm,79 kg,1984-10-04,32,72,82,68,80,68,44,12,9
+278,Vincent Enyeama,Nigeria,,LOSC Lille,GK,1,82,182 cm,87 kg,1982-08-29,34,23,12,54,71,35,19,77,90
+279,Kaka,Brazil,,Orlando City,Res,10,82,186 cm,83 kg,1982-04-22,34,84,14,69,70,76,74,3,3
+280,Fernandinho,Brazil,Sub,Manchester City,Sub,25,82,179 cm,67 kg,1985-04-05,31,76,73,77,73,83,70,12,7
+281,David Villa,Spain,,NYCFC,ST,7,82,175 cm,69 kg,1981-03-12,35,85,22,72,66,80,86,8,9
+282,Victor Valdes,Spain,,Middlesbrough,GK,26,82,183 cm,78 kg,1982-01-14,35,30,10,45,71,29,12,81,83
+283,Per Mertesacker,Germany,,Arsenal,Sub,4,82,198 cm,90 kg,1984-09-29,32,65,86,28,87,71,36,12,8
+284,Patrice Evra,France,,Olym. Marseille,LB,21,82,174 cm,76 kg,1981-05-15,35,75,82,73,69,72,33,3,3
+285,Xabi Alonso,Spain,,FC Bayern,Sub,14,82,183 cm,80 kg,1981-11-25,35,81,62,33,69,86,56,7,10
+286,Michael Carrick,England,,Manchester Utd,CDM,16,82,188 cm,74 kg,1981-07-28,35,80,75,52,66,78,59,13,9
+287,Andrea Pirlo,Italy,,NYCFC,CM,21,82,177 cm,68 kg,1979-05-19,37,86,40,33,59,75,58,5,2
+288,Casillas,Spain,,FC Porto,GK,1,82,185 cm,84 kg,1981-05-20,35,23,11,57,70,28,12,86,84
+289,Ousmane Dembele,France,RM,Bor. Dortmund,RW,7,81,178 cm,67 kg,1997-05-15,19,82,29,91,47,73,77,6,13
+290,Corentin Tolisso,France,Sub,Olym. Lyonnais,LCM,8,81,181 cm,78 kg,1994-03-08,22,78,75,75,79,80,75,7,14
+291,Marcelo Brozovic,Croatia,,Inter,Sub,77,81,181 cm,68 kg,1992-11-16,24,84,64,75,62,78,66,8,8
+292,Federico Bernardeschi,Italy,Sub,Fiorentina,LF,10,81,183 cm,75 kg,1994-02-16,23,87,34,83,62,78,71,14,12
+293,Niklas Stark,Germany,Sub,1899 Hoffenheim,RCB,25,81,195 cm,95 kg,1995-03-09,21,46,82,68,93,70,20,15,15
+294,Domenico Berardi,Italy,,Sassuolo,RW,25,81,183 cm,72 kg,1994-01-08,22,86,22,85,65,83,78,5,6
+295,Morgan Sanson,France,,Olym. Marseille,LCM,8,81,180 cm,72 kg,1994-08-18,22,80,73,77,76,79,75,6,9
+296,Samu Castillejo,Spain,,Villarreal CF,RM,19,81,182 cm,67 kg,1995-01-18,22,81,22,87,45,69,69,13,14
+297,Adrien Rabiot,France,Sub,PSG,CDM,25,81,188 cm,71 kg,1995-03-04,21,81,66,70,77,79,66,9,15
+298,Leon Goretzka,Germany,,FC Schalke 04,CAM,8,81,189 cm,79 kg,1995-06-02,22,81,71,84,68,76,66,13,9
+299,Quincy Promes,Netherlands,LW,Spartak Moscow,RM,10,81,174 cm,70 kg,1992-04-01,25,82,25,91,61,82,82,10,13
+300,Andrea Belotti,Italy,RS,Torino,ST,9,81,181 cm,72 kg,1993-12-20,23,76,15,82,85,81,86,13,7
+301,Jonas Hector,Germany,LB,1. FC Köln,LB,14,81,185 cm,75 kg,1990-05-27,26,81,77,77,76,69,55,9,14
+302,Mateo Kovacic,Croatia,,Real Madrid,Sub,16,81,178 cm,77 kg,1994-05-06,22,87,52,78,65,79,58,9,7
+303,Sergio Rico,Spain,Sub,Sevilla FC,GK,1,81,194 cm,88 kg,1993-01-09,23,12,18,53,67,19,14,80,83
+304,Oleg Shatov,Russia,,Zenit,LW,17,81,173 cm,73 kg,1990-07-29,26,82,38,90,66,75,75,13,14
+305,Jorginho,Italy,,Napoli,Sub,8,81,180 cm,65 kg,1991-12-20,25,84,63,77,58,71,57,14,8
+306,Florian Thauvin,France,Sub,Olym. Marseille,RW,26,81,179 cm,70 kg,1993-01-26,24,82,29,78,62,82,74,8,9
+307,Michy Batshuayi,Belgium,Sub,Chelsea,Sub,23,80,185 cm,78 kg,1993-02-10,23,77,16,84,82,83,83,9,15
+308,Inigo Martinez,Spain,,Real Sociedad,LCB,6,81,181 cm,77 kg,1991-05-17,25,67,85,72,78,81,42,12,11
+309,Suso,Spain,,Milan,RW,8,81,176 cm,70 kg,1993-11-19,23,86,19,81,50,74,70,15,9
+310,Deulofeu,Spain,Sub,Milan,LW,7,81,179 cm,73 kg,1994-03-13,23,86,20,92,59,68,74,12,11
+311,Felipe Anderson,Brazil,,Lazio,RW,10,81,175 cm,70 kg,1993-04-15,23,86,24,91,55,84,71,12,7
+312,Jasper Cillessen,Netherlands,Sub,FC Barcelona,Sub,13,81,185 cm,83 kg,1989-04-22,27,32,18,50,67,35,10,79,77
+313,Wissam Ben Yedder,France,,Sevilla FC,Sub,12,81,170 cm,68 kg,1990-12-08,26,83,28,84,57,78,84,6,7
+314,Lucas Perez,Spain,,Arsenal,Sub,9,81,180 cm,73 kg,1988-10-09,28,82,24,78,73,83,85,14,10
+315,Ross Barkley,England,Sub,Everton,RM,8,81,189 cm,76 kg,1993-05-12,23,86,56,80,79,80,70,9,10
+316,Cedric Bakambu,DR Congo,,Villarreal CF,LS,17,81,182 cm,73 kg,1991-11-04,25,82,30,88,80,84,81,6,6
+317,Bartra,Spain,,Bor. Dortmund,LCB,5,81,184 cm,73 kg,1991-01-15,26,78,82,76,68,61,43,10,8
+318,Andre Schurrle,Germany,Sub,Bor. Dortmund,Sub,21,81,184 cm,74 kg,1990-06-11,26,79,23,86,66,85,80,7,12
+319,Roberto Pereyra,Argentina,,Watford,Sub,37,81,182 cm,77 kg,1991-07-01,26,85,64,81,64,66,61,4,8
+320,Mario Gaspar,Spain,,Villarreal CF,RB,2,81,182 cm,74 kg,1990-11-24,26,75,83,84,79,81,68,9,15
+321,Fabian Orellana,Chile,Sub,Valencia CF,CAM,15,81,171 cm,70 kg,1986-01-27,31,84,18,80,45,64,75,12,15
+322,Luka Hradecky,Finland,GK,Eint. Frankfurt,GK,1,81,190 cm,80 kg,1989-11-24,27,19,11,44,55,14,11,79,85
+323,Daley Blind,Netherlands,LB,Manchester Utd,LB,17,81,180 cm,72 kg,1990-09-03,27,80,82,58,73,68,46,12,10
+324,De Marcos,Spain,,Athletic Bilbao,RB,18,81,180 cm,76 kg,1989-04-14,27,81,66,91,74,73,59,8,9
+325,Wilfried Bony,Ivory Coast,Sub,Stoke City,Sub,12,81,182 cm,90 kg,1988-10-12,28,76,25,75,94,85,83,10,11
+326,Iturraspe,Spain,,Athletic Bilbao,Sub,8,81,187 cm,75 kg,1989-08-03,28,80,72,61,80,67,60,7,9
+327,Parejo,Spain,,Valencia CF,LCM,10,81,180 cm,75 kg,1989-04-16,27,83,59,55,72,78,75,5,8
+328,Salomon Rondan,Venezuela,RS,West Brom,ST,9,81,189 cm,85 kg,1989-09-16,27,78,25,77,91,86,81,13,14
+329,Daniel Carriaso,Portugal,,Sevilla FC,Sub,6,81,180 cm,80 kg,1988-04-08,28,69,77,60,77,66,48,14,12
+330,Bas Dost,Netherlands,Sub,Sporting CP,RS,28,81,196 cm,78 kg,1989-05-31,27,70,29,66,87,85,86,6,8
+331,James McCarthy,Republic of Ireland,LDM,Everton,Sub,16,81,180 cm,72 kg,1990-12-11,26,77,81,69,78,67,57,12,13
+332,Camacho,Spain,,Málaga CF,RDM,6,81,182 cm,75 kg,1990-04-05,26,75,75,59,78,76,58,9,10
+333,Paulinho,Brazil,RCM,Free Agents,Res,99,81,182 cm,77 kg,1988-07-25,28,81,77,78,69,79,72,16,8
+334,Alan Dzagoev,Russia,LDM,CSKA Moscow,RDM,10,81,179 cm,75 kg,1990-06-17,26,82,70,75,65,79,73,11,10
+335,Igor Smolnikov,Russia,,Zenit,Sub,19,81,178 cm,70 kg,1988-08-08,28,72,83,90,68,67,61,7,15
+336,Lars Stindl,Germany,,Bor. M'gladbach,RS,13,81,181 cm,80 kg,1988-08-26,28,82,63,68,70,84,81,7,12
+337,Mario Balotelli,Italy,,OGC Nice,ST,9,81,189 cm,88 kg,1990-12-08,26,85,16,78,85,86,83,2,2
+338,Wojciech Szczesny,Poland,Sub,Roma,GK,1,81,196 cm,84 kg,1990-04-18,26,22,11,40,61,15,12,83,85
+339,Nikola Nikolov,Croatia,,Fiorentina,ST,9,81,187 cm,80 kg,1988-05-01,29,79,22,78,78,78,85,9,7
+340,Mikel San Jose,Spain,,Athletic Bilbao,RCM,6,81,186 cm,77 kg,1989-05-30,27,79,72,54,79,71,69,10,16
+341,Christian Benteke,Belgium,Sub,Crystal Palace,ST,17,81,190 cm,83 kg,1990-03-12,26,80,25,79,90,85,79,14,5
+342,Marco Parolo,Italy,RCM,Lazio,RCM,16,81,184 cm,75 kg,1985-01-25,32,79,71,76,79,87,70,13,9
+343,Ljubomir Fejsa,Serbia,,SL Benfica,CDM,5,81,185 cm,80 kg,1988-08-14,28,71,79,53,83,74,51,14,14
+344,Martin Caceres,Uruguay,,Southampton,Res,12,81,180 cm,78 kg,1987-07-04,29,65,86,83,75,70,37,2,4
+345,Georginio Wijnaldum,Netherlands,RCM,Liverpool,LCM,5,81,175 cm,74 kg,1990-11-11,26,84,59,85,70,77,76,16,6
+346,Federico Fazio,Argentina,,Roma,CB,20,81,195 cm,85 kg,1987-03-17,30,70,82,32,89,63,41,8,14
+347,Simon Kjaer,Denmark,RCB,Fenerbahçe,RCB,4,81,189 cm,90 kg,1989-03-26,28,67,80,69,83,78,55,6,15
+348,Loic Remy,France,,Crystal Palace,Sub,8,81,185 cm,80 kg,1987-02-01,30,76,23,86,74,78,80,9,12
+349,Miguel Layan,Mexico,LCM,FC Porto,Sub,21,81,179 cm,69 kg,1988-06-25,28,78,71,83,67,80,67,7,11
+350,Adan,Spain,,Real Betis,GK,13,81,191 cm,88 kg,1987-05-13,29,15,11,55,77,25,11,80,82
+351,Benoit Moulinas,France,,Sevilla FC,Res,2,81,172 cm,65 kg,1985-12-28,31,80,79,82,63,74,58,5,8
+352,Sven Bender,Germany,,Bor. Dortmund,Res,6,81,186 cm,78 kg,1989-04-27,27,64,80,67,76,73,43,13,15
+353,Mathieu Valbuena,France,,Olym. Lyonnais,Sub,28,81,167 cm,58 kg,1984-09-28,32,81,21,82,35,75,73,14,8
+354,Bojan,Spain,,1. FSV Mainz 05,Sub,10,81,170 cm,65 kg,1990-08-28,26,82,20,75,45,77,70,5,7
+355,Augusto Fernandez,Argentina,,Atlético Madrid,Sub,12,81,177 cm,71 kg,1986-10-04,30,82,57,71,73,74,69,9,9
+356,Antonio Candreva,Italy,RM,Inter,RAM,87,81,180 cm,70 kg,1987-02-28,30,85,54,81,73,87,74,10,14
+357,Davide Astori,Italy,Sub,Fiorentina,LCB,13,81,188 cm,80 kg,1987-07-01,30,66,85,69,80,65,25,4,4
+358,Raul Garcia,Spain,,Athletic Bilbao,CAM,22,81,184 cm,81 kg,1986-11-07,30,84,54,61,82,84,73,14,15
+359,Giovani dos Santos,Mexico,,LA Galaxy,Sub,10,81,175 cm,74 kg,1989-11-05,27,84,21,86,45,80,79,6,5
+360,Erik Lamela,Argentina,,Spurs,Sub,11,81,181 cm,80 kg,1992-04-03,25,83,37,77,57,80,75,10,13
+361,Ryan Shawcross,England,,Stoke City,RCB,17,81,191 cm,76 kg,1987-04-10,29,54,82,54,88,44,53,10,15
+362,Danny Rose,England,LB,Spurs,LWB,3,81,174 cm,76 kg,1990-02-07,26,76,80,84,72,72,57,10,13
+363,Renato Augusto,Brazil,LCM,Free Agents,Res,99,81,186 cm,85 kg,1988-08-02,29,84,67,69,78,81,65,6,8
+364,Martin Skrtel,Slovakia,,Fenerbahçe,LCB,37,81,191 cm,81 kg,1984-12-15,32,59,80,68,85,46,35,15,11
+365,Theo Walcott,England,,Arsenal,RM,14,81,176 cm,68 kg,1989-03-16,28,79,33,93,62,76,82,11,8
+366,Bacary Sagna,France,,Manchester City,RB,3,81,176 cm,72 kg,1983-02-14,34,75,84,74,81,69,40,11,9
+367,Dante,Brazil,,OGC Nice,LCB,31,81,188 cm,87 kg,1983-10-18,33,72,78,55,82,67,48,14,13
+368,Salomon Kalou,Ivory Coast,LM,Hertha BSC,LM,8,81,184 cm,77 kg,1985-05-08,31,83,22,74,68,76,83,8,6
+369,Andre Pierre Gignac,France,,Tigres,ST,10,81,187 cm,89 kg,1985-05-12,31,77,22,72,88,84,82,10,11
+370,Lukas Podolski,Germany,,Galatasaray,ST,11,81,182 cm,83 kg,1985-04-06,31,78,33,77,77,92,82,10,9
+371,Negredo,Spain,,Middlesbrough,ST,10,81,186 cm,82 kg,1985-08-20,31,79,36,65,88,85,81,11,13
+372,Pablo Zabaleta,Argentina,,Manchester City,Sub,5,81,178 cm,74 kg,1985-01-16,32,76,84,68,79,66,49,10,5
+373,Darijo Srna,Croatia,,Shakhtar Donetsk,RB,33,81,178 cm,72 kg,1982-01-05,34,83,78,81,72,83,69,10,12
+374,Cedric Carrasso,France,,Giron. Bordeaux,GK,16,81,187 cm,93 kg,1981-12-30,35,22,13,42,71,24,13,78,82
+375,Rubinn Castro,Spain,,Real Betis,ST,24,81,174 cm,72 kg,1981-06-27,35,81,11,77,61,77,84,14,12
+376,Jeremy Mathieu,France,,FC Barcelona,Sub,24,81,189 cm,84 kg,1983-10-29,33,64,82,75,90,79,51,13,5
+377,Carlos Idriss Kameni,Cameroon,,Málaga CF,GK,1,81,186 cm,86 kg,1984-02-18,33,14,13,45,79,22,11,84,82
+378,Moya,Spain,,Atlético Madrid,Sub,1,81,189 cm,82 kg,1984-02-04,32,24,13,34,57,21,11,85,79
+379,Rune Almenning Jarstein,Norway,GK,Hertha BSC,GK,22,81,190 cm,82 kg,1984-09-29,32,23,13,46,70,21,13,77,83
+380,Jermain Defoe,England,,Sunderland,ST,18,81,170 cm,70 kg,1982-07-10,34,77,24,77,62,88,87,7,13
+381,Thiago Motta,Italy,,PSG,Sub,8,81,187 cm,83 kg,1982-08-28,34,83,68,41,83,82,54,10,14
+382,Fernando Torres,Spain,,Atlético Madrid,Sub,9,81,186 cm,78 kg,1984-03-20,33,81,17,78,76,83,77,14,10
+383,Julio Cesar,Brazil,,SL Benfica,Sub,12,81,186 cm,79 kg,1979-03-09,37,32,19,43,72,14,12,83,82
+387,Samuel Eto'o,Cameroon,,Antalyaspor,ST,9,81,179 cm,75 kg,1981-10-03,36,80,20,34,85,71,75,7,5
+389,Gelson Martins,Portugal,Sub,Sporting CP,RM,77,80,173 cm,67 kg,1995-11-05,21,82,32,55,76,85,84,7,12
+390,Leroy Sane,Germany,Sub,Manchester City,LW,19,80,184 cm,76 kg,1996-11-01,21,83,26,93,48,77,62,6,14
+391,Julian Weigl,Germany,Sub,Bor. Dortmund,RCM,33,81,186 cm,71 kg,1995-08-09,21,77,67,91,63,73,67,12,9
+392,Nabil Fekir,France,,Olym. Lyonnais,CAM,18,80,173 cm,76 kg,1993-07-18,23,86,24,69,62,78,75,8,14
+393,Jean Michael Seri,Ivory Coast,Sub,OGC Nice,LCM,6,80,168 cm,65 kg,1991-07-19,25,81,73,82,76,57,47,6,7
+394,Williams,Spain,,Athletic Bilbao,RW,11,80,186 cm,77 kg,1994-06-15,22,81,28,78,70,84,77,15,15
+395,Marco Sportiello,Italy,,Fiorentina,Sub,57,80,192 cm,87 kg,1992-10-05,24,22,19,95,84,78,69,14,12
+396,Keita Baldo Diao,Senegal,,Lazio,LW,14,80,184 cm,80 kg,1995-08-03,22,88,17,38,66,85,74,14,13
+397,Nikola Maksimovic,Serbia,,Napoli,Sub,19,80,193 cm,82 kg,1991-11-25,25,61,82,92,78,19,18,82,83
+398,Thomas Lemar,France,Sub,AS Monaco,LM,27,80,170 cm,58 kg,1995-12-11,21,81,63,69,86,75,73,12,15
+399,Kingsley Coman,France,,FC Bayern,Sub,29,80,178 cm,71 kg,1996-06-13,20,79,11,82,69,39,22,12,15
+400,Alisson,Brazil,GK,Roma,Sub,19,80,191 cm,91 kg,1992-02-10,24,21,20,93,58,79,75,11,14
+401,Joshua Kimmich,Germany,RB,FC Bayern,Sub,32,80,176 cm,70 kg,1995-08-02,22,78,76,35,78,76,75,5,5
+402,Julian Brandt,Germany,Sub,Bayer 04,LM,19,80,183 cm,82 kg,1996-02-05,20,81,25,67,65,21,13,75,86
+403,Sofiane Boufal,Morocco,,Southampton,Sub,19,80,170 cm,60 kg,1993-09-17,23,86,44,83,63,75,66,8,15
+404,Bruma,Portugal,,Galatasaray,LM,20,80,173 cm,66 kg,1994-10-24,22,82,21,85,40,77,74,11,9
+405,Daniele Rugani,Italy,,Juventus,Sub,24,80,190 cm,81 kg,1994-07-29,22,65,85,92,55,73,75,9,7
+406,Raphael Guerreiro,Portugal,LB,Bor. Dortmund,LM,13,80,170 cm,67 kg,1993-12-22,23,82,74,67,81,81,69,11,8
+407,Fabinho,Brazil,,AS Monaco,RDM,2,80,188 cm,78 kg,1993-10-23,23,78,79,75,52,58,33,5,5
+408,Jamie Vardy,England,Sub,Leicester City,LS,9,81,178 cm,76 kg,1987-11-01,30,76,48,75,77,78,71,12,8
+409,Hakim Ziyech,Morocco,,Ajax,LCM,22,80,180 cm,70 kg,1993-03-19,24,85,40,92,69,75,66,13,8
+410,Emil Forsberg,Sweden,LM,RB Leipzig,LAM,10,80,179 cm,78 kg,1991-10-23,25,82,23,72,62,85,83,15,11
+411,Saul,Spain,,Atlético Madrid,LCM,8,80,181 cm,70 kg,1994-11-21,22,82,69,72,63,82,74,11,14
+412,Felipe,Brazil,,FC Porto,RCB,28,80,185 cm,77 kg,1989-05-16,27,64,80,73,76,72,71,13,11
+413,Taras Stepanenko,Ukraine,,Shakhtar Donetsk,LDM,6,80,181 cm,76 kg,1989-08-08,27,78,80,74,78,74,67,7,9
+414,Luke Shaw,England,,Manchester Utd,Sub,23,80,185 cm,75 kg,1995-12-07,21,76,79,64,78,46,39,9,7
+415,Leo Baptistao,Brazil,,RCD Espanyol,Sub,11,80,181 cm,72 kg,1992-08-26,24,82,17,88,80,75,53,15,9
+416,Antonio Rudiger,Germany,Sub,Roma,LCB,2,80,190 cm,85 kg,1993-03-03,24,67,82,81,72,62,44,10,7
+417,Matija Nastasic,Serbia,,FC Schalke 04,LCB,31,80,188 cm,83 kg,1993-03-28,24,66,81,78,81,73,80,8,9
+418,Denis Suarez,Spain,,FC Barcelona,Sub,6,80,181 cm,72 kg,1994-06-01,23,85,40,74,78,70,27,14,8
+419,Kurt Zouma,France,,Chelsea,Sub,5,80,190 cm,85 kg,1994-10-27,22,67,80,80,55,44,27,11,13
+420,John Brooks,United States,LCB,Hertha BSC,LCB,25,80,193 cm,78 kg,1993-01-28,24,62,80,77,85,76,75,10,7
+422,Thorgan Hazard,Belgium,Sub,Bor. M'gladbach,Sub,10,80,174 cm,69 kg,1993-03-29,24,80,28,94,61,50,33,8,10
+423,Davy Klaassen,Netherlands,LCM,Ajax,RCM,10,80,179 cm,70 kg,1993-02-21,24,77,59,77,59,52,52,8,12
+424,Vala re Germain,France,,AS Monaco,LS,18,80,180 cm,73 kg,1990-04-17,26,80,22,73,74,78,79,6,8
+425,Paul Georges Ntep,France,,VfL Wolfsburg,Sub,9,80,180 cm,82 kg,1992-07-29,24,84,22,79,61,79,80,12,10
+426,Layvin Kurzawa,France,Sub,PSG,LB,20,80,182 cm,74 kg,1992-04-09,24,80,78,90,74,79,82,14,14
+427,Rafinha,Brazil,,FC Barcelona,RM,12,80,174 cm,71 kg,1993-12-02,24,84,47,76,72,79,74,15,6
+428,Jeison Murillo,Colombia,Sub,Inter,LCB,24,80,182 cm,78 kg,1992-05-27,24,63,82,74,66,69,71,14,15
+429,Riccardo Saponara,Italy,,Fiorentina,Sub,21,80,184 cm,73 kg,1991-12-21,25,85,26,78,78,79,74,11,7
+430,Djibril Sidibao,France,RB,AS Monaco,RB,19,80,182 cm,71 kg,1992-07-29,24,77,78,78,69,68,37,14,14
+431,Nacho Fernandez,Spain,,Real Madrid,Sub,6,80,179 cm,75 kg,1990-01-18,27,71,80,83,75,73,64,5,3
+432,Josip Ilia,Slovenia,CAM,Fiorentina,Sub,72,80,190 cm,79 kg,1988-01-29,29,87,28,72,77,69,70,10,7
+433,Kevin Volland,Germany,,Bayer 04,CAM,31,80,179 cm,75 kg,1992-07-30,24,81,17,75,68,54,32,12,7
+434,Allan,Brazil,,Napoli,Sub,5,80,175 cm,74 kg,1991-08-01,26,78,76,77,82,86,78,13,6
+435,Pablo Hernandez,Chile,LCM,Celta Vigo,CAM,8,80,185 cm,81 kg,1986-10-24,30,80,56,76,76,85,80,8,12
+436,Sergi Roberto,Spain,,FC Barcelona,Sub,20,80,178 cm,71 kg,1992-07-02,25,80,78,71,80,70,62,13,8
+437,Wilfried Zaha,Ivory Coast,RM,Crystal Palace,LM,11,80,180 cm,66 kg,1992-10-11,24,86,36,79,75,75,69,6,10
+438,Manolo Gabbiadini,Italy,,Southampton,ST,20,80,186 cm,81 kg,1991-11-26,25,84,18,89,72,65,64,14,10
+439,Josuha Guilavogui,France,,VfL Wolfsburg,Sub,23,80,187 cm,77 kg,1990-09-19,26,73,76,79,76,75,74,15,10
+440,Patrick Herrmann,Germany,,Bor. M'gladbach,RM,7,80,179 cm,70 kg,1991-12-02,26,79,27,73,82,87,81,12,5
+441,Sebastian Coates,Uruguay,Sub,Sporting CP,RCB,13,80,196 cm,92 kg,1990-07-10,26,57,76,88,56,78,49,14,15
+442,Yuzhan Azyakup,Turkey,RDM,Besiktas,LDM,15,80,180 cm,75 kg,1992-09-23,24,82,54,66,93,78,76,14,7
+443,Yaroslav Rakitskyi,Ukraine,,Shakhtar Donetsk,LCB,44,80,180 cm,70 kg,1989-03-08,27,77,83,75,62,63,23,16,13
+444,Phil Jones,England,,Manchester Utd,Sub,4,80,185 cm,71 kg,1992-02-21,25,69,81,74,75,80,72,7,13
+445,Adrian,Spain,,West Ham,Sub,13,80,188 cm,77 kg,1987-01-31,30,23,14,68,80,87,57,12,6

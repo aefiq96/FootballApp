@@ -10,14 +10,12 @@
   <ion-list>
     <ion-item *ngFor="let user of users">
 
-        <p>Name: {{user.FIRST_NAMEOne}} {{user.LAST_NAME}}</p>
-        Age:{{user.AGE}}
-        <br/>
-        Gender: {{user.GENDER}}
-        <br/>
-        Degree: {{user.DEGREE}}
-        <br/>
+        <p>Name: {{user.Name}} </p>
+        <p>Nationality: {{user.Nationality}} </p>
+        <p>Club Kit: {{user.Club_Kit}} </p>
+        <p>Club: {{user.Club}} </p>
+        
+
     </ion-item>
   </ion-list>
-  <button ion-button full (click)="loadData()">Read Users</button>
 </ion-content>

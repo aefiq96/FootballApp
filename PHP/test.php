@@ -5,7 +5,7 @@ header("Access-Control-Allow-Header: Origin, Content-Type");
 $servername = "localhost";
 $username = "root";// username 
 $password = "";//password for the user name 
-$dbname = "football";//name of the database we are going to use 
+$dbname = "fut";//name of the database we are going to use 
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
@@ -16,7 +16,7 @@ if ($conn->connect_error) {
 }
 
 //sql query
-$sql = "select * from details where name like 'Cristiano Ronaldo'";
+$sql = "select * from details LIMIT 19";
 //this passes the query to the connection set 
 $result = $conn->query($sql);
 
