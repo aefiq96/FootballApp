@@ -16,17 +16,20 @@ export class HomePage {
 
   //created a new variable of type any 
   users:any;
+  // players:any;
   //created a method which loads all the values from mysql in the webpage 
   loadData(){
 
-    this.http.get('http://localhost/test.php').map(Data => Data.json()).subscribe(Data => {
-      //this assigns 
-      this.users = Data;
-      console.log(this.users);
+ if (this.users) {
+      return Promise.resolve(this.users);
+    }
 
-    },(err) =>{
-      alert("failed loading data");
+    return new Promise(resolve => {
+
+      this.http.get('http://localhost:8081/players').map(res => res.json()).subscribe(data => {
+        this.users = data;
+        resolve(this.users);
+      });
     });
   }
-
 }
