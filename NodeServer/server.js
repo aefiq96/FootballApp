@@ -7,10 +7,11 @@ var methodOverride = require('method-override');
 var cors = require('cors');
 
 // make connection to the database 
+// here i am connecting to the database in mongodb 
 mongoose.connect('mongodb://localhost/fut', function (error) {
-    if (error) {
+    if (error) {//error handling 
         console.log(error);
-    } else {
+    } else {//tells if the connection is successful
         console.log("connection successful");
     }
 });
@@ -21,7 +22,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.json({ type: 'application/vnd.api+json' }));
 app.use(methodOverride());
 app.use(cors());
-
+//headers
 app.use(function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header('Access-Control-Allow-Methods', 'DELETE, PUT, GET, POST');
@@ -29,7 +30,7 @@ app.use(function (req, res, next) {
     next();
 });
 
-// Models
+// Model for mongo database.
 var user = mongoose.model('details', {
 	id: Number,
 	Name : String,
@@ -53,8 +54,9 @@ var user = mongoose.model('details', {
 	GK_Reflexes : Number,
 });
 
-// Routes
 
+//
+//this function returns all the players in the database
 app.get('/players', function (req, res) {
     mongoose.model('details').find(function (err, details) {
         res.send(details);

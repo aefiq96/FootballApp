@@ -1,12 +1,19 @@
 <ion-header>
   <ion-navbar>
     <ion-title>
-      Ionic Blank
+      FIFA ULTIMATE TEAM
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
+  <ion-list>
+  <ion-item>
+    <ion-label color="primary">Search Player</ion-label>
+    <ion-input #name placeholder="Player Name"></ion-input>
+  </ion-item>
+  <!--<button ion-button full (click)="player(name.value)">Search</button>-->
+  </ion-list>
   <ion-list>
     <ion-item *ngFor="let user of users">
 
@@ -15,32 +22,8 @@
         <p>Club Kit: {{user.Club_Kit}} </p>
         <p>Club: {{user.Club}} </p>
         <p>Rating: {{user.Rating}} </p>
+        <!--<p>id: {{user.id}} </p>-->
         
-
     </ion-item>
   </ion-list>
-
-
-
-  <ion-list>
-  <ion-item>
-    <ion-label color="primary">Seach Player</ion-label>
-    <ion-input #name placeholder="Player Name"></ion-input>
-  </ion-item>
-  <!--<button ion-button full (click)="player(name.value)">Search</button>-->
-  </ion-list>
-  
-
-  <!--<ion-list>
-    <ion-item *ngFor="let user of players">
-
-        <p>Name: {{user.Name}} </p>
-        <p>Nationality: {{user.Nationality}} </p>
-        <p>Club Kit: {{user.Club_Kit}} </p>
-        <p>Club: {{user.Club}} </p>
-        <p>Rating: {{user.Rating}} </p>
-      
-    </ion-item>
-  </ion-list>-->
-
 </ion-content>
