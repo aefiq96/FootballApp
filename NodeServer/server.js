@@ -53,7 +53,11 @@ var user = mongoose.model('details', {
 	GK_Diving :Number,
 	GK_Reflexes : Number,
 });
-
+//model for login and signup
+var Login = mongoose.model('passwords2', {
+    userName: String,
+    password: String
+});
 
 //
 //this function returns all the players in the database
@@ -62,7 +66,7 @@ app.get('/players', function (req, res) {
         res.send(details);
     });
 });
-
+//shows the result for search
 app.post('/search', function (req, res) {
     console.log("Search at Work");
 
@@ -75,6 +79,71 @@ app.post('/search', function (req, res) {
     });
 	
 });
+//signups 
+app.post("/signup", (req, res) => {
+    console.log("signup");
 
+    var username = req.body.username;
+    var password = req.body.password;
+
+    var myData = new Login();
+
+    myData.userName = username;
+    myData.password = password;
+
+    myData.save(function (err, savedUser) {
+        if (err) {
+            console.log(err);
+            return res.status(500).send();
+        }
+        return res.status(200).send();
+    });
+});
+
+//checks your details
+app.post("/login", (req, res) => {
+    console.log("Login at Work");
+
+    var username = req.body.username;
+    var password = req.body.password;
+
+    console.log(username, password);
+
+    Login.findOne({userName: username, password: password}, function(err, login){
+        if(err){
+            console.log(err);
+            return res.status(500).send();
+        }
+        if(!login){
+            return res.status(404).send();
+        }
+
+        return res.status(200).send();
+    })
+
+});
+
+
+//delete
+app.post('/delete', function (req, res) {
+    console.log("Delete at Work");
+
+    var username = req.body.username;
+	var regexValue='.*'+username+'.*';
+    console.log(regexValue);
+
+	mongoose.model('details').deleteOne({Name: {$regex :regexValue}},function (err, details) {
+        //res.send(details);
+		 if(err){
+            console.log(err);
+            return res.status(500).send();
+        }
+        if(!details){
+            return res.status(404).send();
+        }
+        return res.status(200).send();
+    });
+	
+});
 app.listen(8081);
 console.log("App listening on port 8081");
