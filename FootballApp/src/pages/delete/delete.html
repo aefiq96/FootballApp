@@ -14,5 +14,9 @@
 
 
 <ion-content padding>
-
+<ion-item>
+    <ion-label color="primary">Delete Player</ion-label>
+    <ion-input #name placeholder="Player Name"></ion-input>
+  </ion-item>
+  <button color="danger" ion-button full (click)="deletePlayer(name.value)">Delete</button>
 </ion-content>

@@ -1,6 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
-
+import { Http } from '@angular/http';
+import {HomePage} from '../../pages/home/home';
+import { LoginSignupProvider } from '../../providers/login-signup/login-signup';
 /**
  * Generated class for the DeletePage page.
  *
@@ -15,11 +17,21 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 })
 export class DeletePage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams) {
+  searchData:any
+  constructor(public http: Http, public navCtrl: NavController, public navParams: NavParams,public loginProvider: LoginSignupProvider) {
   }
 
   ionViewDidLoad() {
     console.log('ionViewDidLoad DeletePage');
   }
+
+  deletePlayer(username) {
+
+    let p = this.loginProvider.deletePlayers(username);
+    p.then(data => {
+        this.navCtrl.push(HomePage);
+    });
+    
+  } 
 
 }

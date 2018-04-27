@@ -11,9 +11,11 @@ import { Injectable } from '@angular/core';
 export class LoginSignupProvider {
 
   data: any;
+  deleteData:any;
 
   constructor(public http: Http) {
      this.data = null;
+     this.deleteData = null;
     console.log('Hello LoginSignupProvider Provider');
   }
 
@@ -48,6 +50,27 @@ export class LoginSignupProvider {
       });
     });
   }
+
+
+  deletePlayers(username) {
+    let body = {
+      username: username
+    };
+
+    if (this.deleteData) {
+      return Promise.resolve(this.deleteData);
+    }
+    return new Promise(resolve => {
+    //here we are sending a get request which gets data back from mongo
+    //sending a get request to this url
+      this.http.post('http://localhost:8081/delete',body).subscribe(data => {
+        //the data we get back from get request we store into this
+         this.deleteData = data;
+        resolve(data); 
+      });
+    });
+    
+  } 
 
 
 }
