@@ -16,7 +16,7 @@ import { LoginSignupProvider } from '../../providers/login-signup/login-signup';
 })
 export class SignupPage {
 
-  constructor(public navCtrl: NavController, public navParams: NavParams, public loginProvider: LoginSignupProvider,public modalCtrl: ModalController) {
+  constructor(public navCtrl: NavController, public navParams: NavParams, public loginProvider: LoginSignupProvider) {
   }
 
   ionViewDidLoad() {

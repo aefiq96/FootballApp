@@ -3,6 +3,7 @@ import { NavController } from 'ionic-angular';
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
 import {SearchPage} from '../search/search';
+import {DeletePage} from '../delete/delete';
 
 @Component({
   selector: 'page-home',
@@ -60,5 +61,8 @@ export class HomePage {
     
   } 
 
+  delete(){
+    this.navCtrl.push(DeletePage);
+  }
 
 }
