@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { NavController } from 'ionic-angular';
 import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
+import {SearchPage} from '../search/search';
 
 @Component({
   selector: 'page-home',
@@ -9,6 +10,7 @@ import 'rxjs/add/operator/map';
 })
 export class HomePage {
 
+  searchData:any
   constructor(public navCtrl: NavController, public http: Http) {
     //this loads the data for the first 19 players 
     this.loadData();
@@ -35,4 +37,28 @@ export class HomePage {
       });
     });
   }
+
+  search(username) {
+    let body = {
+      username: username
+    };
+
+    if (this.searchData) {
+      return Promise.resolve(this.searchData);
+    }
+    return new Promise(resolve => {
+    //here we are sending a get request which gets data back from mongo
+    //sending a get request to this url
+      this.http.post('http://localhost:8081/search',body).map(res => res.json()).subscribe(data => {
+        //the data we get back from get request we store into this
+        resolve(data); 
+        this.navCtrl.push(SearchPage, {
+          data: data
+        });
+      });
+    });
+    
+  } 
+
+
 }

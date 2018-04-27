@@ -63,5 +63,18 @@ app.get('/players', function (req, res) {
     });
 });
 
+app.post('/search', function (req, res) {
+    console.log("Search at Work");
+
+    var username = req.body.username;
+	var regexValue='.*'+username+'.*';
+    console.log(regexValue);
+
+	mongoose.model('details').find({Name: {$regex :regexValue}},function (err, details) {
+        res.send(details);
+    });
+	
+});
+
 app.listen(8081);
 console.log("App listening on port 8081");
