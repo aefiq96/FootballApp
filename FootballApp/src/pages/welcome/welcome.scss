@@ -1,0 +1,15 @@
+page-welcome {
+ #welcome{
+        background: color($colors, primary);
+    }
+    #wel{
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+    #h1welcome{
+        text-align: center;
+        margin-top: 80px;
+       
+    }
+}

@@ -14,5 +14,24 @@
 
 
 <ion-content padding>
+ <ion-list>
 
+    <ion-item>
+      <ion-label fixed>Name</ion-label>
+      <ion-input type="text" value="" #Name></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label fixed>Username</ion-label>
+      <ion-input type="text" value="" #userName></ion-input>
+    </ion-item>
+
+    <ion-item>
+      <ion-label fixed>Password</ion-label>
+      <ion-input type="password" #Password></ion-input>
+    </ion-item>
+
+    <button id="wel" color="secondary" ion-button block (click)="signup(userName.value,Password.value)">SignUp</button>
+
+  </ion-list>
 </ion-content>

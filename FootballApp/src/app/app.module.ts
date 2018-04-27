@@ -9,7 +9,8 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import {SearchPage} from '../pages/search/search';
 import {LoginPage} from '../pages/login/login';
-import{SignupPage} from '../pages/signup/signup';
+import {SignupPage} from '../pages/signup/signup';
+import {WelcomePage} from '../pages/welcome/welcome';
 
 @NgModule({
   declarations: [
@@ -17,6 +18,7 @@ import{SignupPage} from '../pages/signup/signup';
     SearchPage,
     LoginPage,
     SignupPage,
+    WelcomePage,
     HomePage
   ],
   imports: [
@@ -30,6 +32,7 @@ import{SignupPage} from '../pages/signup/signup';
     SearchPage,
     LoginPage,
     SignupPage,
+    WelcomePage,
     HomePage
   ],
   providers: [
