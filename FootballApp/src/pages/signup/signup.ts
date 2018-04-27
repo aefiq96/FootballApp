@@ -2,9 +2,6 @@ import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 import {HomePage} from '../../pages/home/home';
 import { LoginSignupProvider } from '../../providers/login-signup/login-signup';
-import { ModalController } from 'ionic-angular/components/modal/modal-controller';
-
-
 /**
  * Generated class for the SignupPage page.
  *
